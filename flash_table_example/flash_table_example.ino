@@ -263,9 +263,9 @@ void setup()
   // 4.c Access individual elements of the array using [] notation
   Serial.print("r: ");
   Serial.print(color_table[0][0]);
-  Serial.print("g: ");
+  Serial.print(" g: ");
   Serial.print(color_table[1][0]);
-  Serial.print("b: ");
+  Serial.print(" b: ");
   Serial.print(color_table[2][0]);
   
   
